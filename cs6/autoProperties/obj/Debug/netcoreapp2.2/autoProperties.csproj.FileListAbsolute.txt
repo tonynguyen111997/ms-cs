@@ -1,0 +1,4 @@
+D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.csprojAssemblyReference.cache
+D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.csproj.CoreCompileInputs.cache
+D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.AssemblyInfoInputs.cache
+D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.AssemblyInfo.cs
