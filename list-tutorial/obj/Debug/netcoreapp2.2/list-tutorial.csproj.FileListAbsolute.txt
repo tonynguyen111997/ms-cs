@@ -1,0 +1,11 @@
+D:\Documents\csharp\list-tutorial\obj\Debug\netcoreapp2.2\list-tutorial.csprojAssemblyReference.cache
+D:\Documents\csharp\list-tutorial\obj\Debug\netcoreapp2.2\list-tutorial.csproj.CoreCompileInputs.cache
+D:\Documents\csharp\list-tutorial\obj\Debug\netcoreapp2.2\list-tutorial.AssemblyInfoInputs.cache
+D:\Documents\csharp\list-tutorial\obj\Debug\netcoreapp2.2\list-tutorial.AssemblyInfo.cs
+D:\Documents\csharp\list-tutorial\bin\Debug\netcoreapp2.2\list-tutorial.deps.json
+D:\Documents\csharp\list-tutorial\bin\Debug\netcoreapp2.2\list-tutorial.runtimeconfig.json
+D:\Documents\csharp\list-tutorial\bin\Debug\netcoreapp2.2\list-tutorial.runtimeconfig.dev.json
+D:\Documents\csharp\list-tutorial\bin\Debug\netcoreapp2.2\list-tutorial.dll
+D:\Documents\csharp\list-tutorial\bin\Debug\netcoreapp2.2\list-tutorial.pdb
+D:\Documents\csharp\list-tutorial\obj\Debug\netcoreapp2.2\list-tutorial.dll
+D:\Documents\csharp\list-tutorial\obj\Debug\netcoreapp2.2\list-tutorial.pdb
