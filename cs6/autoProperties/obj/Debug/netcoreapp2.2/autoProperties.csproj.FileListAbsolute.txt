@@ -2,3 +2,10 @@ D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoPropert
 D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.csproj.CoreCompileInputs.cache
 D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.AssemblyInfoInputs.cache
 D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.AssemblyInfo.cs
+D:\Documents\csharp\ms-cs\cs6\autoProperties\bin\Debug\netcoreapp2.2\autoProperties.deps.json
+D:\Documents\csharp\ms-cs\cs6\autoProperties\bin\Debug\netcoreapp2.2\autoProperties.runtimeconfig.json
+D:\Documents\csharp\ms-cs\cs6\autoProperties\bin\Debug\netcoreapp2.2\autoProperties.runtimeconfig.dev.json
+D:\Documents\csharp\ms-cs\cs6\autoProperties\bin\Debug\netcoreapp2.2\autoProperties.dll
+D:\Documents\csharp\ms-cs\cs6\autoProperties\bin\Debug\netcoreapp2.2\autoProperties.pdb
+D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.dll
+D:\Documents\csharp\ms-cs\cs6\autoProperties\obj\Debug\netcoreapp2.2\autoProperties.pdb

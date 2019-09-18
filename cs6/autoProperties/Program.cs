@@ -8,7 +8,8 @@ namespace autoProperties
         {
             Person p = new Person("John", "Doe");
             Console.WriteLine("The name in all caps: " + p.AllCaps());
-            Console.WriteLine("The name: " p);
+            p.FirstName = "Test";
+            Console.WriteLine("The name: " + p);
         }
     }
 }
