@@ -1,0 +1,11 @@
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\bin\Debug\netcoreapp2.2\backingFieldsAutoProperties.deps.json
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\bin\Debug\netcoreapp2.2\backingFieldsAutoProperties.runtimeconfig.json
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\bin\Debug\netcoreapp2.2\backingFieldsAutoProperties.runtimeconfig.dev.json
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\bin\Debug\netcoreapp2.2\backingFieldsAutoProperties.dll
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\bin\Debug\netcoreapp2.2\backingFieldsAutoProperties.pdb
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\obj\Debug\netcoreapp2.2\backingFieldsAutoProperties.csprojAssemblyReference.cache
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\obj\Debug\netcoreapp2.2\backingFieldsAutoProperties.csproj.CoreCompileInputs.cache
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\obj\Debug\netcoreapp2.2\backingFieldsAutoProperties.AssemblyInfoInputs.cache
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\obj\Debug\netcoreapp2.2\backingFieldsAutoProperties.AssemblyInfo.cs
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\obj\Debug\netcoreapp2.2\backingFieldsAutoProperties.dll
+D:\Documents\csharp\ms-cs\cs6\backingFieldsAutoProperties\obj\Debug\netcoreapp2.2\backingFieldsAutoProperties.pdb
