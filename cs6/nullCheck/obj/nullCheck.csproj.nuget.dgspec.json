@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\csharp\\ms-cs\\cs6\\nullCheck\\nullCheck.csproj": {}
+    "C:\\Users\\Johnathan\\Desktop\\csharp\\ms-cs\\cs6\\nullCheck\\nullCheck.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\csharp\\ms-cs\\cs6\\nullCheck\\nullCheck.csproj": {
+    "C:\\Users\\Johnathan\\Desktop\\csharp\\ms-cs\\cs6\\nullCheck\\nullCheck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\csharp\\ms-cs\\cs6\\nullCheck\\nullCheck.csproj",
+        "projectUniqueName": "C:\\Users\\Johnathan\\Desktop\\csharp\\ms-cs\\cs6\\nullCheck\\nullCheck.csproj",
         "projectName": "nullCheck",
-        "projectPath": "D:\\Documents\\csharp\\ms-cs\\cs6\\nullCheck\\nullCheck.csproj",
-        "packagesPath": "C:\\Users\\tonyn\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\csharp\\ms-cs\\cs6\\nullCheck\\obj\\",
+        "projectPath": "C:\\Users\\Johnathan\\Desktop\\csharp\\ms-cs\\cs6\\nullCheck\\nullCheck.csproj",
+        "packagesPath": "C:\\Users\\Johnathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Johnathan\\Desktop\\csharp\\ms-cs\\cs6\\nullCheck\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\tonyn\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Johnathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
